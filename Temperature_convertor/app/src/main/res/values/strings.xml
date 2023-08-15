@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">temperature_convertor</string>
+    <string name="temperture_convertor">Temperture Convertor</string>
+    <string name="equivalent_to">Equivalent to :</string>
+</resources>
